@@ -1,0 +1,104 @@
+hr {
+    border: none;
+    border-top: 2px solid black;
+  }
+
+  table {
+    width: 400px; /* Adjust the width as desired */
+    border-collapse: collapse;
+  }
+
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+
+  h1{
+    margin-bottom: 0px;
+  }
+
+.work-example{
+  margin-bottom: 0px;
+}
+
+.duration{
+  margin-top: 3px;
+}
+h3 {
+    color: #F2511B;
+    margin-top: 0px;
+}
+
+h4{
+    color: #B45F06;
+    font-size: 14pt;
+}
+
+.section-1{
+  width: 25%;
+  height: 200px;
+  border: 1pt  black;
+  position: absolute;
+}
+
+.section-1a{
+  width: 75%;
+  height: 200px;
+  border:  1pt  black ;
+  position: absolute;
+  top:8px;
+  left: 385px
+}
+
+.section-2{
+  position: absolute;
+  top: 200px;
+}
+
+.section-2a{
+  position: absolute;
+  top:200px;
+  left: 25%;
+  padding-right: 15%;
+}
+
+.section-3{
+  position: absolute;
+  top: 400px;
+}
+
+.section-3a{
+  position: absolute;
+  top:400px;
+  left: 25%;
+  padding-right: 15%;
+}
+
+.section-4{
+  position: absolute;
+  top: 650px;
+ 
+}
+
+.section-4a{
+  position: absolute;
+  top:650px;
+  left: 25%;
+  padding-right: 15%;
+ 
+}
+
+.section-5{
+  position: absolute;
+  top: 1250px;
+ 
+}
+
+.section-5a{
+  position: absolute;
+  top: 1250px;
+  left: 25%;
+  padding-right: 15%;
+ 
+}
