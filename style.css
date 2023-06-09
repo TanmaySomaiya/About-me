@@ -72,3 +72,14 @@ hr{
   border-color: black;
 }
 
+@media(max-width:400px){
+  hr{
+    display: none;
+  }
+
+  table {
+    width: 320px; /* Adjust the width as desired */
+    border-collapse: collapse;
+  }
+}
+
